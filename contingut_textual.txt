@@ -1,4 +1,19 @@
-NEWS ABOUT MORE 				SIGN IN		DOWNLOAD
+/*         Contingut header             */
+
+    News
+
+    About
+
+    Industries
+
+    Learning & Support
+
+    Community
+
+    Marketplace 				
+
+
+    SIGN IN		DOWNLOAD
 
 
 
@@ -12,3 +27,164 @@ and immersive virtual worlds.
 
 
 GET STARTED NOW
+
+
+Games Architecture  
+Automotive & transaportation 
+Broadcast & live events
+Film & television
+Training & simulation more uses
+
+
+
+
+/*         Contingut body             */
+
+
+Uncompromised quality, proven results
+
+Unreal Engine is a state-of-the-art real-time engine and editor that features photorealistic rendering, 
+dynamic physics and effects, lifelike animation, robust data translation, and much more—on a open, extensible 
+platform that won't tie you down.
+
+
+SEE ALL FREATURES
+
+
+-------------------------
+
+
+Your path to a bright career
+
+With demand for real-time 3D skills at an all-time high, learning Unreal Engine is a great way to open up your
+career potential. From well over 100 hours of free self-paced online tutorials, to instructor-led training and 
+opportunities to further your knowledge at events around the globe, there’s a range of options to suit 
+your learning style.
+
+START LEARNING
+
+
+
+
+--------------------------
+
+The help you need to succeed
+From your first steps with Unreal Engine to completing your most challenging real-time project, we’re here to help. 
+With comprehensive reference documentation, instructional guides, community-based support, and options for dedicated 
+professional support, we have what you need to succeed. 
+
+
+SUPPORT & RESOURCES
+
+--------------------------
+
+
+
+Freedom for all creators
+
+Unreal creators come from all walks of life and all over the globe. Together, they form an inspirational community that is the 
+true power behind Unreal Engine, using their creativity to create amazing experiences that entertain, educate, and enlighten us 
+in more ways than we ever thought possible. Come meet them today.
+
+MEET THE CREATORS
+
+
+----------------------------
+
+*********** La icona del reproductor de vídeo està al en un png a la carpeta de body 
+
+
+Giant Squid creates an emotional connection with players in "The Pathless"
+
+
+FIND OUT MORE
+
+
+WATCH THE VIDEO
+
+
+
+Creating a digital showroom: Audi and Mackevision choose UE4
+
+FIND OUT MORE
+
+
+WATCH THE VIDEO
+
+
+Behind the scenes with Unreal Engine's next-gen virtual production tools
+
+FIND OUT MORE
+
+
+WATCH THE VIDEO
+
+
+----------------------------
+
+Unreal Engine 5 revealed
+
+
+FIND OUT MORE
+
+
+------------------------------
+Epic Online Services
+now available to all developers
+
+READ THE NEWS
+
+
+Introducing MetaHuman Creator:
+digital humans made easy
+
+FIND OUT MORE
+
+SEE ALL NEWS
+
+
+----------------------------------
+
+
+Get Unreal Engine today!
+
+Get the world’s most open and advanced creation tool. 
+With every feature and full source code access included, Unreal Engine comes fully loaded out of the box
+
+GET STARTED NOW
+
+
+----------------------------------
+
+/*     CONTINGUT FOOTER    */
+
+
+-----------------------------------
+    Features
+    Logo & Branding
+    Roadmap
+    Education
+
+    Academic Partners
+    More Resources
+    Awards
+    Custom License Terms
+
+    Online Services
+    Training Partners
+    Community Rules
+    Releasing Your Game
+
+SIGN UP FOR UNREAL ENGINE NEWS!
+
+
+----------------------
+
+© 2004-2021, Epic Games, Inc. All rights reserved. 
+Unreal and its logo are Epic’s trademarks or registered 
+trademarks in the US and elsewhere. 
+
+    Terms of ServicePrivacy Policy
+
+
+
